@@ -1,0 +1,5 @@
+#my secrets file
+secrets.txt
+
+#log files
+*.log
